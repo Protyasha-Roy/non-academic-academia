@@ -258,6 +258,29 @@ article {
     text-decoration: underline;
 }
 
+/* Sitemap */
+.sitemap {
+    margin-bottom: 2em;
+    padding: 0.5em 0;
+    border-bottom: 1px solid #ddd;
+    color: #666;
+}
+
+.sitemap a {
+    color: blue;
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+.sitemap a:hover {
+    text-decoration: none;
+    border-color: blue;
+}
+
+.sitemap .current {
+    color: #000;
+}
+
 /* Footer */
 .footer {
     width: 100%;
