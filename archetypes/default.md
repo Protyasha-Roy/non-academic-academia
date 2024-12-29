@@ -3,10 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
 author: "Protyasha Roy"
-weight: 1
 description: ""
-categories: []
-tags: []
 ---
 
 Write your content here...

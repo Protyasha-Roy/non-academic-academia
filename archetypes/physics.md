@@ -1,6 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+lastmod: {{ .Lastmod }}
 draft: false
 author: "Protyasha Roy"
 weight: 1
