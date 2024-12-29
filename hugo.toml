@@ -1,7 +1,6 @@
 baseURL = "https://localhost:1313/"
 languageCode = "en-us"
 title = "Non-academic Academia"
-pagination = { pagerSize = 10 }
 
 [taxonomies]
   category = "categories"

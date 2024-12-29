@@ -28,14 +28,12 @@ body {
 }
 
 .nav-container {
-    max-width: 400px;
-    /* border: 1px solid #ddd; */
+    max-width: 750px;
     margin: 0 auto;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     flex-direction: row;
-    background-color: rgb(233, 233, 233);
 }
 
 .site-title {
