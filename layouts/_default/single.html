@@ -1,0 +1,42 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <p><strong>Author:</strong> {{ .Params.author }}</p>
+  <p><strong>Created:</strong> {{ .Date.Format "2006-01-02" }}</p>
+  <p><strong>Last Modified:</strong> {{ .Params.lastmod | time.Format "2006-01-02" }}</p>
+
+  <div class="taxonomy-info">
+    {{ with .Params.categories }}
+    <p><strong>Categories:</strong>
+      {{ range . }}<a href="/categories/{{ . | urlize }}">{{ . }}</a> {{ end }}
+    </p>
+    {{ end }}
+    {{ with .Params.tags }}
+    <p><strong>Tags:</strong>
+      {{ range . }}<a href="/tags/{{ . | urlize }}">{{ . }}</a> {{ end }}
+    </p>
+    {{ end }}
+  </div>
+
+  {{ .Content }}
+
+  {{ $currentPage := . }}
+  {{ $pages := where .Site.RegularPages "Section" .Section }}
+  {{ $pages := $pages.ByWeight }}
+  
+  <nav class="post-nav">
+    <div class="post-nav-item prev">
+      {{ with $pages.Next . }}
+      <span>Previous</span>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ end }}
+    </div>
+    <div class="post-nav-item next">
+      {{ with $pages.Prev . }}
+      <span>Next</span>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ end }}
+    </div>
+  </nav>
+</article>
+{{ end }}

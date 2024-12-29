@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on Non-academic Academia</title>
+    <link>http://localhost:1313/categories/science/</link>
+    <description>Recent content in Science on Non-academic Academia</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>History of Physics</title>
+      <link>http://localhost:1313/physics/history-of-physics/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/physics/history-of-physics/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Physics Basics&lt;/strong&gt;: Understanding the basics of physics. &lt;a href=&#34;http://localhost:1313/physics/physics-basics/&#34;&gt;Read More&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Physics&lt;/strong&gt;: Dive into the world of physics. &lt;a href=&#34;http://localhost:1313/physics/physics/&#34;&gt;Read More&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Quantum Physics</title>
+      <link>http://localhost:1313/physics/quantum-physics/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/physics/quantum-physics/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Quantum Physics Basics&lt;/strong&gt;: Understanding the basics of quantum physics. &lt;a href=&#34;http://localhost:1313/physics/quantum-physics/quantum-physics-basics/&#34;&gt;Read More&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Quantum Physics&lt;/strong&gt;: Dive into the world of quantum physics. &lt;a href=&#34;http://localhost:1313/physics/quantum-physics/quantum-physics/&#34;&gt;Read More&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
