@@ -1,7 +1,5 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-<p>{{ .Params.description }}</p>
-
+{{ .Content }}
 <h2>Topics</h2>
 <ul>
   {{ range .Site.Sections }}
