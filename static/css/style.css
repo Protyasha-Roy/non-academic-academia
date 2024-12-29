@@ -244,6 +244,40 @@ article {
     color: #000;
 }
 
+/* Images */
+.container img {
+    width: 100%;
+    max-width: 450px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.container img + em {
+    display: block;
+    text-align: center;
+    color: #666;
+    margin-top: 0.5em;
+    font-size: 0.9em;
+}
+
+/* Responsive Design */
+@media (min-width: 768px) {
+    .container img {
+        max-width: 600px;
+    }
+
+    .nav-container {
+        flex-direction: row;
+        gap: 0;
+    }
+    
+    .nav-links {
+        justify-content: flex-end;
+        width: auto;
+    }
+}
+
 /* Footer */
 .footer {
     width: 100%;
@@ -272,17 +306,3 @@ table {
   th {
     background-color: #f4f4f4;
   }
-  
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .nav-container {
-        flex-direction: column;
-        gap: 1em;
-    }
-    
-    .nav-links {
-        justify-content: center;
-        width: 100%;
-    }
-}
