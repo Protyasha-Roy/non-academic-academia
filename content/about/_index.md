@@ -16,8 +16,10 @@ Above all, I want this site to be as **resourceful** and **informative** as poss
 
 Topics will follow a **zettelkasten** structure, with each topic serving as a **knowledge base** for related topics. This structure allows for easy **navigation** and **organization**, making it easy to find what you need.  
 
-For any query, suggestion or comment, you can [email](mailto:protyasharoy369@gmail.com) me.
-
 Know about the creator [here](/me).
 
-Want to contribute? It's open source -> [Github-repo](https://github.com/Protyasha-Roy/non-academic-academia).
+This site was built using [Hugo](https://gohugo.io/).
+
+For any query, suggestion or comment, you can [email](mailto:protyasharoy369@gmail.com) me.
+
+Want to contribute or fix something? It's open source -> [Github-repo](https://github.com/Protyasha-Roy/non-academic-academia).
