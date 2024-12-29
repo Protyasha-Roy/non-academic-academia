@@ -2,10 +2,6 @@
 <h1>{{ .Title }}</h1>
 <p>{{ .Params.description }}</p>
 
-<form action="/search">
-  <input type="text" name="q" placeholder="Search..." />
-</form>
-
 <h2>Topics</h2>
 <ul>
   {{ range .Site.Sections }}

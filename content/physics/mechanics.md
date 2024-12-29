@@ -3,7 +3,7 @@ title: "Mechanics"
 author: "Protyasha Roy"
 date: 2024-12-29
 lastmod: 2024-12-29
-categories: ["Physics"]
+categories: ["Physics", "Science"]
 tags: ["Mechanics", "Physics Basics", "Physics"]
 weight: 2
 ---

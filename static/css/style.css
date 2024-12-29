@@ -107,38 +107,6 @@ article {
     text-align: left;
 }
 
-/* Search Field */
-.search-container {
-    margin: 1em auto;
-    display: flex;
-    justify-content: center;
-    max-width: 750px;
-    padding: 0 1em;
-    width: 100%;
-    box-sizing: border-box;
-}
-
-.search-container input {
-    flex: 1;
-    padding: 0.5em;
-    border: 1px solid #ccc;
-    border-radius: 4px 0 0 4px;
-    outline: none;
-}
-
-.search-container button {
-    padding: 0.5em 1em;
-    background-color: #007BFF;
-    color: white;
-    border: none;
-    border-radius: 0 4px 4px 0;
-    cursor: pointer;
-}
-
-.search-container button:hover {
-    background-color: #0056b3;
-}
-
 /* Topics, Tags, Categories */
 .section {
     width: 100%;
