@@ -20,18 +20,13 @@ body {
 }
 
 /* Navbar */
-.navbar {
-    background-color: #d6d6d6;
-    padding: 1em;
-    border-bottom: 1px solid #ddd;
-    width: 100%;
-}
 
 .nav-container {
-    max-width: 750px;
+    background-color: #e4e4e4;
+    max-width: 500px;
     margin: 0 auto;
     display: flex;
-    justify-content: space-between;
+    justify-content:center;
     align-items: center;
     flex-direction: row;
 }
