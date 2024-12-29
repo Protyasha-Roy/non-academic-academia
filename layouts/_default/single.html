@@ -2,9 +2,15 @@
 {{ partial "sitemap" . }}
 <article>
   <h1>{{ .Title }}</h1>
-  <p><strong>Author:</strong> {{ .Params.author }}</p>
-  <p><strong>Created:</strong> {{ .Date.Format "2006-01-02" }}</p>
-  <p><strong>Last Modified:</strong> {{ .Params.lastmod | time.Format "2006-01-02" }}</p>
+  {{ with .Params.author }}
+  <p><strong>Author:</strong> {{ . }}</p>
+  {{ end }}
+  {{ with .Date }}
+  <p><strong>Created:</strong> {{ .Format "2006-01-02" }}</p>
+  {{ end }}
+  {{ with .Lastmod }}
+  <p><strong>Last Modified:</strong> {{ .Format "2006-01-02" }}</p>
+  {{ end }}
 
   <div class="taxonomy-info">
     {{ with .Params.categories }}

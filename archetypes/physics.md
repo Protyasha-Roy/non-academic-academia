@@ -5,8 +5,8 @@ draft: false
 author: "Protyasha Roy"
 weight: 1
 description: ""
-categories: []
-tags: []
+categories: ["Physics"]
+tags: ["Physics"]
 ---
 
-Write your content here...
+Write your physics content here...

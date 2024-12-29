@@ -1,4 +1,5 @@
 ---
+author: "Protyasha Roy"
 date: "2024-12-29"
 title: "Quantum Physics"
 description: "Explore the fascinating world of Quantum Physics, where particles and probabilities meet."

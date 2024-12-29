@@ -1,4 +1,5 @@
 ---
+author: "Protyasha Roy"
 date: "2020-01-01"
 title: "History of Physics"
 lastmod: "2024-12-29"

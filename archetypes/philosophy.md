@@ -5,8 +5,8 @@ draft: false
 author: "Protyasha Roy"
 weight: 1
 description: ""
-categories: []
-tags: []
+categories: ["Philosophy"]
+tags: ["Philosophy"]
 ---
 
-Write your content here...
+Write your philosophy content here...
