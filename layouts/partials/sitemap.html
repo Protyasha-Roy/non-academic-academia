@@ -3,26 +3,23 @@
     {{ $currentPage := . }}
     {{ $sections := split .RelPermalink "/" }}
     {{ $path := "" }}
-    {{ $lastSection := "" }}
     {{ range $index, $element := $sections }}
-        {{ if and (ne $element "") (ne $index (sub (len $sections) 1)) }}
+        {{ if and (ne $element "") }}
             {{ if eq $path "" }}
                 {{ $path = $element }}
             {{ else }}
                 {{ $path = printf "%s/%s" $path $element }}
             {{ end }}
-            {{ $sectionTitle := humanize $element }}
-            {{ if ne $sectionTitle $lastSection }}
+            {{ if or (ne $index (sub (len $sections) 2)) (not $currentPage.File.LogicalName) }}
                 / {{ if eq $currentPage.RelPermalink (printf "/%s/" $path) }}
-                    <span class="current">{{ $sectionTitle }}</span>
+                    <span class="current">{{ humanize $element }}</span>
                 {{ else }}
-                    <a href="/{{ $path }}">{{ $sectionTitle }}</a>
+                    <a href="/{{ $path }}">{{ humanize $element }}</a>
                 {{ end }}
-                {{ $lastSection = $sectionTitle }}
             {{ end }}
         {{ end }}
     {{ end }}
-    {{ if and (ne .RelPermalink "/") (ne (humanize .Title) $lastSection) }}
+    {{ if and (ne .RelPermalink "/") (not .IsSection) }}
         / <span class="current">{{ .Title }}</span>
     {{ end }}
 </div>

@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Physics"
+date: 2024-12-30T14:07:54+06:00
 lastmod: ""
 draft: false
 author: "Protyasha Roy"
@@ -10,4 +10,5 @@ categories: ["Physics"]
 tags: ["Physics", "Science"]
 ---
 
-Write your physics content here...
+Below the physics topics will be listed sequentially-
+
