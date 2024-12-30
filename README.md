@@ -4,7 +4,7 @@ title: "Non-academic Academia"
 description: "It's a personal wiki blog-site intended for learning and teaching purposes. It follows zettelkasten like structure."
 date: "2024-12-29"
 lastmod: "2024-12-30"
-tags: ["blog", "academia", "non-academic academia", "learning", "teaching", "science", philosophy, "physics", "mathematics", "chess", "one piece", "stalker", "minimalism", "metalhead", "nerd", "postmodernist", "postmodernism", "computer science", "programming", "coding", "platform", "hugo"]
+tags: ["blog", "academia", "non-academic academia", "learning", "teaching", "science", philosophy, "physics", "mathematics", "chess", "minimalism", "computer science", "programming", "coding", "platform", "hugo"]
 ---
 
 ## Non-academic Academia
