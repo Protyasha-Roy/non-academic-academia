@@ -10,16 +10,11 @@
             {{ else }}
                 {{ $path = printf "%s/%s" $path $element }}
             {{ end }}
-            {{ if or (ne $index (sub (len $sections) 2)) (not $currentPage.File.LogicalName) }}
-                / {{ if eq $currentPage.RelPermalink (printf "/%s/" $path) }}
-                    <span class="current">{{ humanize $element }}</span>
-                {{ else }}
-                    <a href="/{{ $path }}">{{ humanize $element }}</a>
-                {{ end }}
+            / {{ if eq $currentPage.RelPermalink (printf "/%s/" $path) }}
+                <span class="current">{{ humanize $element }}</span>
+            {{ else }}
+                <a href="/{{ $path }}">{{ humanize $element }}</a>
             {{ end }}
         {{ end }}
-    {{ end }}
-    {{ if and (ne .RelPermalink "/") (not .IsSection) }}
-        / <span class="current">{{ .Title }}</span>
     {{ end }}
 </div>
