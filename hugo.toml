@@ -9,5 +9,25 @@ title = "Non-academic Academia"
 [params]
   description = "Learn academic topics in a simple and engaging way."
   googleAnalytics = "$HUGO_GOOGLE_ANALYTICS"
+  keywords = [
+    "non-academic academia", "non-academic","academia", "wikipedia", "wiki", "learning", "education", 
+    "science", "math", "physics", "astronomy", "chemistry",
+    "biology", "computer science", "programming", "coding",
+    "personal wiki", "educational blog", "open source learning",
+    "classical physics", "modern physics", "physics tutorials",
+    "academic resources", "self-learning", "student resources",
+    "physics education", "science education", "academic writing",
+    "online learning", "educational content", "academic tutorials",
+    "wiki learning", "free education", "academic blog",
+    "protyasha roy", "physics explanations", "beginner friendly"
+]
+  images = ["/images/me-rocketto.png"]
+  
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "SITEMAP"]
 
 [markup]
