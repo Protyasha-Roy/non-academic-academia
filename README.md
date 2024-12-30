@@ -26,6 +26,13 @@ This site was built using [Hugo](https://gohugo.io/).
 
 For any query, suggestion or comment, you can [email](mailto:protyasharoy369@gmail.com) me.
 
-Want to contribute or fix something? It's open source. Make edits, I'll review and update the site.
+Want to contribute or fix something? It's open source. 
+
+To contribute:
+1. Clone the repository (`git clone https://github.com/Protyasha-Roy/non-academic-academia.git`)
+2. Make your changes (e.g. edit the content, fix bugs, etc.)
+3. Commit your changes (`git commit -am 'Added/Changed <Description>'`)
+4. Create a pull request (`git push origin <branch-name>`)
+5. I'll review and update the site.
 
 For technical changes you need to have knowledge of [Hugo](https://gohugo.io/).
