@@ -8,6 +8,6 @@ lastmod: "2024-12-29"
 
 # Non-academic Academia
 
-This website is a personal [wiki](https://en.wikipedia.org/wiki/Wiki). Developed by [Protyasha Roy](https://protyasharoy.netlify.app). And built in [Hugo](https://gohugo.io/).
+This website is a personal [wiki](https://en.wikipedia.org/wiki/Wiki). Developed by [Protyasha Roy](https://non-academic-academia.onrender.com/me). And built in [Hugo](https://gohugo.io/).
 
 To learn more about the site visit the [about](/about) page. If you have any suggestions, questions, or comments you can [email](mailto:protyasharoy369@gmail.com) me. This project is [open-source](https://en.wikipedia.org/wiki/Open_source). So, feel free to fix(information or technical problem) or edit anything on [github](https://github.com/Protyasha-Roy/non-academic-academia). I'll review the changes and update the site. Any contribution is welcomed. Find more about me through my [website](https://protyasharoy.netlify.app) or on [me](/me).

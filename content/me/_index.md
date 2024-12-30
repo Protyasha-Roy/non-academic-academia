@@ -20,15 +20,14 @@ Here are some of my interests out of many other interests: [physics](https://en.
 Besides these I:
 - am a fan of [one piece](https://en.wikipedia.org/wiki/One_Piece).
 - rewatched [one piece](https://en.wikipedia.org/wiki/One_Piece) twice.
-- compose [songs](https://on.soundcloud.com/RoBG1FKdRYwiBiA28) sometimes on my guitar.
-- consider [stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film)) to be my favourite movie of all time.
+- compose [songs](https://on.soundcloud.com/RoBG1FKdRYwiBiA28) sometimes.
 - am trying to be a [minimalist](https://en.wikipedia.org/wiki/Minimalism).
 - think we might be [simulations](https://en.wikipedia.org/wiki/Simulation_hypothesis).
-- am a [metalhead](https://en.wikipedia.org/wiki/Metalhead). Even though I'm into all sorts of music.
 - think [Tool is science and science is Tool](https://youtu.be/EShM-EOAlj4). 
 - get called a [nerd](https://en.wikipedia.org/wiki/Nerd) sometimes.
 - hate [cultural conformity](https://helpfulprofessor.com/conformity-examples/).
 - am a [postmodernist](https://en.wikipedia.org/wiki/Postmodernism)(kinda).
-- am a [INTP](https://www.verywellmind.com/intp-introverted-intuitive-thinking-perceiving-2795989)
+- consider [stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film)) to be my favourite movie of all time.
+- am a [metalhead](https://en.wikipedia.org/wiki/Metalhead)(I'm into all sorts of music).
 
 For more information about me, you can visit my [website](https://protyasharoy.netlify.app) or [email](mailto:protyasharoy369@gmail.com) me. Information about the site [here](/about).
