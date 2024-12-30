@@ -18,6 +18,7 @@ Above all, I want this site to be as **resourceful** and **informative** as poss
 
 Topics will follow a **zettelkasten** structure, with each topic serving as a **knowledge base** for related topics. This structure allows for easy **navigation** and **organization**, making it easy to find what you need.  
 
+See the site [here](https://non-academic-academia.onrender.com).
 Know about the creator [here](https://non-academic-academia.onrender.com/me).
 
 This site was built using [Hugo](https://gohugo.io/).
