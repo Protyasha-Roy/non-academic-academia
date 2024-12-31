@@ -184,15 +184,12 @@ article {
 
 .post-nav-item span {
     display: block;
-    font-size: 0.9em;
     color: #666;
     margin-bottom: 0.5em;
 }
 
 .post-nav-item a {
-    color: blue;
     text-decoration: none;
-    font-weight: bold;
 }
 
 .post-nav-item a:hover {

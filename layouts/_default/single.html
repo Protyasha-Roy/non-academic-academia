@@ -1,18 +1,18 @@
 {{ define "main" }}
 {{ partial "sitemap" . }}
 <article>
-  <h1>{{ .Title }}</h1>
+  <h1 style="font-size: 20px">{{ .Title }}</h1>
   {{ with .Params.author }}
-  <p><strong>Author:</strong> {{ . }}</p>
+  <p style="font-size: 15px"><strong>Author:</strong> {{ . }}</p>
   {{ end }}
   {{ with .Date }}
-  <p><strong>Created:</strong> {{ .Format "2006-01-02" }}</p>
+  <p style="font-size: 15px"><strong>Created:</strong> {{ .Format "2006-01-02" }}</p>
   {{ end }}
   {{ with .Lastmod }}
-  <p><strong>Last Modified:</strong> {{ .Format "2006-01-02" }}</p>
+  <p style="font-size: 15px"><strong>Last Modified:</strong> {{ .Format "2006-01-02" }}</p>
   {{ end }}
 
-  <div class="taxonomy-info">
+  <div style="font-size: 15px" class="taxonomy-info">
     {{ with .Params.categories }}
     <p><strong>Categories:</strong>
       {{ range . }}<a href="/categories/{{ . | urlize }}">{{ . }}</a> {{ end }}
@@ -31,16 +31,16 @@
   {{ $pages := where .Site.RegularPages "Section" .Section }}
   {{ $pages := $pages.ByWeight }}
   
-  <nav class="post-nav">
+  <nav style="font-size: 13px" class="post-nav">
     <div class="post-nav-item prev">
       {{ with $pages.Next . }}
-      <span>Previous</span>
+      <span>previous</span>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{ end }}
     </div>
     <div class="post-nav-item next">
       {{ with $pages.Prev . }}
-      <span>Next</span>
+      <span>next</span>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{ end }}
     </div>
