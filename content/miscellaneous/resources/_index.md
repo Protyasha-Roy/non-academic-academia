@@ -7,5 +7,4 @@ description: "List of all resources."
 categories: ["Resources", "Miscellaneous"]
 tags: ["Resources", "Links", "References", "Curated list"]
 ---
-
-Write your content here...
+List of all resources and links I come across. You can find many reference resources here as well.

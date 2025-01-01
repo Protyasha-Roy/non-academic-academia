@@ -7,5 +7,4 @@ description: "List of all journal entries."
 categories: ["Journal", "Miscellaneous"]
 tags: ["Journal", "Daily-life", "Miscellaneous"]
 ---
-
 List of all journal entries:

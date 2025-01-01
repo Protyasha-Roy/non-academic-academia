@@ -7,5 +7,4 @@ description: "I keep temporary resources here that I organize later in a specifi
 categories: ["Miscellaneous", "Temporary", "Resources"]
 tags: ["Temporary", "Miscellaneous", "Resources", "Curated list", "Links", "References"]
 ---
-
-Write your content here...
+Temporary links and resources that I go through when I'm free and then categorize.

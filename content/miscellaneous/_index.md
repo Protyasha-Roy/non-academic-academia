@@ -9,4 +9,4 @@ categories: ["Miscellaneous"]
 tags: ["Miscellaneous", "Notes", "Resources"]
 ---
 
-List of all uncategorized content.
+List of all miscellaneous content.
