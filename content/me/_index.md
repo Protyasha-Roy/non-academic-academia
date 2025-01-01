@@ -8,7 +8,7 @@ lastmod: "2024-12-31"
 
 **Last-modified:** 31/12/2024
 
-Hi!! I'm the creator [Protyasha Roy](https://protyasharoy.netlify.app).
+Hi!! I'm the creator [Protyasha Roy](https://protyasharoy.onrender.com).
 
 ![me](/images/me/me-rocketto.png)
 *image edited with [microsoft designer](https://designer.microsoft.com/)*
@@ -30,4 +30,4 @@ Besides these I:
 - think [Tool is science and science is Tool](https://youtu.be/EShM-EOAlj4). 
 - consider [stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film)) to be my favourite movie of all time.
 
-For more information about me, you can visit my [website](https://protyasharoy.netlify.app) or [email](mailto:protyasharoy369@gmail.com) me. Information about the site [here](/about).
+For more information about me, you can visit my [website](https://protyasharoy.onrender.com) or [email](mailto:protyasharoy369@gmail.com) me. Information about the site [here](/about).
