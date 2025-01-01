@@ -9,55 +9,6 @@
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>History of Classical Physics</title>
-      <link>http://localhost:1313/physics/classical-physics/history/</link>
-      <pubDate>Mon, 30 Dec 2024 14:07:54 +0600</pubDate>
-      <guid>http://localhost:1313/physics/classical-physics/history/</guid>
-      <description>&lt;p&gt;Classical physics is a branch of physics that deals with the study of motion, forces, energy, and matter. It is based on the principles of classical mechanics, electromagnetism, and thermodynamics. The roots of classical physics can be traced back to ancient Greece, where philosophers such as Aristotle and Archimedes made significant contributions to the field.&lt;/p&gt;&#xA;&lt;p&gt;The ancient Greeks were the first to develop a systematic understanding of the natural world. They believed in a geocentric universe, where the Earth was at the center and the Sun, Moon, and stars orbited around it. They also believed in a concept called &amp;ldquo;natural motion,&amp;rdquo; which stated that objects tend to move towards their natural place.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Principles of Newtonian Mechanics</title>
-      <link>http://localhost:1313/physics/classical-physics/newtonian-mechanics/</link>
-      <pubDate>Mon, 30 Dec 2024 14:47:24 +0600</pubDate>
-      <guid>http://localhost:1313/physics/classical-physics/newtonian-mechanics/</guid>
-      <description>&lt;p&gt;Newtonian mechanics, also known as classical mechanics, forms the cornerstone of classical physics. It provides a mathematical framework for understanding the motion of objects under the influence of forces, from falling apples to orbiting planets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fundamental-laws&#34;&gt;Fundamental Laws&lt;/h2&gt;&#xA;&lt;h3 id=&#34;first-law-law-of-inertia&#34;&gt;First Law: Law of Inertia&lt;/h3&gt;&#xA;&lt;p&gt;An object will remain at rest or in uniform motion in a straight line unless acted upon by an external force. This principle challenges the ancient belief that objects naturally come to rest and introduces the concept of inertia.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Classical Theory of Light</title>
-      <link>http://localhost:1313/physics/classical-physics/light/</link>
-      <pubDate>Mon, 30 Dec 2024 14:47:24 +0600</pubDate>
-      <guid>http://localhost:1313/physics/classical-physics/light/</guid>
-      <description>&lt;p&gt;The classical theory of light represents one of the most fascinating chapters in the history of physics. Before the advent of quantum mechanics, physicists developed sophisticated theories to explain the behavior of light, leading to groundbreaking discoveries and technological innovations.&lt;/p&gt;&#xA;&lt;h2 id=&#34;historical-development&#34;&gt;Historical Development&lt;/h2&gt;&#xA;&lt;p&gt;The understanding of light has evolved significantly over centuries. Isaac Newton proposed the corpuscular theory, suggesting that light consisted of tiny particles. This theory successfully explained reflection but struggled with phenomena like diffraction. Later, Christiaan Huygens proposed the wave theory of light, which better explained diffraction and interference.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Electricity</title>
-      <link>http://localhost:1313/physics/classical-physics/electricity/</link>
-      <pubDate>Mon, 30 Dec 2024 14:07:54 +0600</pubDate>
-      <guid>http://localhost:1313/physics/classical-physics/electricity/</guid>
-      <description>&lt;p&gt;The earliest recorded observations of electricity date back to ancient Greece, where Thales of Miletus noticed that rubbing amber against certain materials could create a static electric charge. The Greek philosopher Aristotle also made observations about electricity, noting that certain materials, such as amber and lodestone, could attract small objects.&lt;/p&gt;&#xA;&lt;p&gt;The ancient Greeks also made significant contributions to the field of mathematics. They developed the concept of geometry, which is the study of shapes and sizes. They also developed the concept of arithmetic, which is the study of numbers.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Theory of Relativity</title>
-      <link>http://localhost:1313/physics/modern-physics/relativity/</link>
-      <pubDate>Mon, 30 Dec 2024 14:48:16 +0600</pubDate>
-      <guid>http://localhost:1313/physics/modern-physics/relativity/</guid>
-      <description>&lt;p&gt;Einstein&amp;rsquo;s theory of relativity fundamentally changed our understanding of space, time, and gravity. It consists of two interrelated theories: special relativity (1905) and general relativity (1915).&lt;/p&gt;&#xA;&lt;h2 id=&#34;special-relativity&#34;&gt;Special Relativity&lt;/h2&gt;&#xA;&lt;p&gt;The theory of special relativity is based on two fundamental postulates:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The laws of physics are the same for all observers in uniform motion relative to one another.&lt;/li&gt;&#xA;&lt;li&gt;The speed of light in a vacuum is the same for all observers, regardless of their relative motion.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Time Dilation: Time moves slower for objects moving at high speeds&lt;/li&gt;&#xA;&lt;li&gt;Length Contraction: Objects appear shorter in the direction of motion&lt;/li&gt;&#xA;&lt;li&gt;Mass-Energy Equivalence: E = mc²&lt;/li&gt;&#xA;&lt;li&gt;Relativistic Mass: Mass increases with velocity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;general-relativity&#34;&gt;General Relativity&lt;/h2&gt;&#xA;&lt;p&gt;General relativity extends special relativity to include gravity, describing it as a consequence of the curvature of spacetime caused by mass and energy.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quantum Mechanics</title>
-      <link>http://localhost:1313/physics/modern-physics/quantum-mechanics/</link>
-      <pubDate>Mon, 30 Dec 2024 14:48:16 +0600</pubDate>
-      <guid>http://localhost:1313/physics/modern-physics/quantum-mechanics/</guid>
-      <description>&lt;p&gt;Quantum mechanics is perhaps the most successful yet mysterious theory in physics. It describes the behavior of matter and energy at the molecular, atomic, nuclear, and even smaller microscopic levels.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fundamental-concepts&#34;&gt;Fundamental Concepts&lt;/h2&gt;&#xA;&lt;h3 id=&#34;wave-particle-duality&#34;&gt;Wave-Particle Duality&lt;/h3&gt;&#xA;&lt;p&gt;Matter and light exhibit both wave and particle properties, a concept first proposed by Louis de Broglie. This duality is exemplified in the famous double-slit experiment, where individual particles create an interference pattern characteristic of waves.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nuclear Physics</title>
-      <link>http://localhost:1313/physics/modern-physics/nuclear-physics/</link>
-      <pubDate>Mon, 30 Dec 2024 14:48:16 +0600</pubDate>
-      <guid>http://localhost:1313/physics/modern-physics/nuclear-physics/</guid>
-      <description>&lt;p&gt;Nuclear physics studies the components, structure, reactions, and interactions of atomic nuclei. This field has led to numerous applications, from energy production to medical treatments.&lt;/p&gt;&#xA;&lt;h2 id=&#34;fundamental-concepts&#34;&gt;Fundamental Concepts&lt;/h2&gt;&#xA;&lt;h3 id=&#34;nuclear-structure&#34;&gt;Nuclear Structure&lt;/h3&gt;&#xA;&lt;p&gt;The atomic nucleus consists of protons and neutrons (collectively called nucleons) held together by the strong nuclear force. The number of protons determines the element, while different numbers of neutrons create isotopes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/4/4b/NuclearReaction.svg&#34; alt=&#34;Nuclear Structure&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;nuclear-forces&#34;&gt;Nuclear Forces&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Strong Nuclear Force: Holds nucleons together&lt;/li&gt;&#xA;&lt;li&gt;Weak Nuclear Force: Responsible for radioactive decay&lt;/li&gt;&#xA;&lt;li&gt;Electromagnetic Force: Repulsion between protons&lt;/li&gt;&#xA;&lt;li&gt;Gravity: Negligible at nuclear scale&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;nuclear-reactions&#34;&gt;Nuclear Reactions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;nuclear-fission&#34;&gt;Nuclear Fission&lt;/h3&gt;&#xA;&lt;p&gt;The splitting of heavy nuclei into lighter ones, releasing energy:&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Awesome Internet</title>
       <link>http://localhost:1313/miscellaneous/resources/awesome-internet/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
