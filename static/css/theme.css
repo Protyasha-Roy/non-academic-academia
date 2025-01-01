@@ -1,0 +1,168 @@
+/* Theme variables */
+:root[data-theme="light"] {
+    --bg-color: white;
+    --text-color: #000;
+    --link-color: blue;
+    --nav-bg: #e4e4e4;
+    --code-bg: #f5f5f5;
+    --tag-bg: #f4f4f4;
+    --tag-border: #ddd;
+    --nav-divider: #ddd;
+    --post-nav-text: #666;
+    --icon-color: #e4e4e4;
+    --icon-hover: #e4e4e4;
+    --site-title: #000;
+    --current-page: #262626;
+}
+
+:root[data-theme="dark"] {
+    --bg-color: #1a1a1a;
+    --text-color: #b4b3b3;
+    --link-color: #767ef6;
+    --nav-bg: #2d2d2d;
+    --code-bg: #2d2d2d;
+    --tag-bg: #2d2d2d;
+    --tag-border: #404040;
+    --nav-divider: #404040;
+    --post-nav-text: #888;
+    --icon-color: #2d2d2d;
+    --icon-hover: #2d2d2d;
+    --site-title: #b4b3b3;
+    --current-page: #b9b9b9;
+}
+
+/* Theme Toggle Button */
+#theme-toggle {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: var(--bg-color);
+    border: 1.5px solid var(--text-color);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    padding: 6px;
+    transition: all 0.01s ease;
+}
+
+#theme-toggle:hover {
+    background-color: var(--nav-bg);
+    transform: scale(1.05);
+}
+
+#theme-toggle svg {
+    width: 16px;
+    height: 16px;
+    fill: var(--text-color);
+    transition: fill 0.01s ease;
+}
+
+/* Apply theme colors to existing elements */
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+/* Override all links to use theme color */
+a,
+.nav-links a,
+.tag a,
+.category a,
+.home-tag,
+.post-nav-item a,
+article a,
+.sitemap a,
+.section a,
+.single-content a,
+.list-content a,
+.taxonomy-content a,
+.term-content a,
+.taxonomy-info a {
+    color: var(--link-color);
+}
+
+.nav-container {
+    background-color: var(--nav-bg);
+}
+
+pre, code {
+    background-color: var(--code-bg);
+}
+
+/* Tags and Categories */
+.tag, .category {
+    background-color: var(--tag-bg);
+    border-color: var(--tag-border);
+}
+
+.home-tag {
+    border-bottom-color: var(--link-color);
+}
+
+/* Navigation */
+.nav-divider {
+    color: var(--nav-divider);
+}
+
+.site-title {
+    color: var(--site-title);
+}
+
+/* Social Icons */
+.icon-link {
+    color: var(--icon-color);
+}
+
+.icon-link:hover {
+    color: var(--icon-hover);
+}
+
+.icon-link svg {
+    fill: var(--icon-color);
+}
+
+.icon-link:hover svg {
+    fill: var(--icon-hover);
+}
+
+/* Post Navigation */
+.post-nav-item span {
+    color: var(--post-nav-text);
+}
+
+.post-nav {
+    border-top-color: var(--tag-border);
+}
+
+/* Table of Contents Links */
+.toc a,
+#TableOfContents a {
+    color: var(--link-color);
+}
+
+/* Sitemap Links */
+.sitemap-list a,
+.sitemap-item a {
+    color: var(--link-color);
+}
+
+/* Sitemap Current Page */
+.sitemap .current {
+    color: var(--current-page);
+}
+
+/* Single Page Tags and Categories */
+.taxonomy-info a {
+    color: var(--link-color) !important;
+}
+
+/* Smooth transitions */
+* {
+    transition: background-color 0.01s, color 0.01s, border-color 0.01s;
+}
