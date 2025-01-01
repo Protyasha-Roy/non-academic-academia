@@ -3,10 +3,10 @@ author: "Prothyasha Roy"
 title: "Me"
 description: "About the author of Non-academic Academia."
 date: "2024-12-29"
-lastmod: "2024-12-31"
+lastmod: "2025-01-01"
 ---
 
-**Last-modified:** 31/12/2024
+**Last-modified:** 01/01/2025
 
 Hi!! I'm the creator [Protyasha Roy](https://protyasharoy.onrender.com).
 

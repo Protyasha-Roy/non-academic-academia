@@ -1,9 +1,9 @@
 ---
-author: "Protyasha Roy"
-title: "Non-academic academia"
-description: "Non-academic academia is a personal blog-site but for learning and teaching purposes. I will be writing about various topics that I am interested in. From the ground level to the most advanced level.I want to share everything here that I once suffered to learn or to find a solution for. It's the place where I share everything I learn. In a way, that I wished I had someone to learn from."
-date: "2024-12-29"
-lastmod: "2024-12-29"
+author: Protyasha Roy
+title: Non-academic academia
+description: Non-academic academia is a personal blog-site but for learning and teaching purposes. I will be writing about various topics that I am interested in. From the ground level to the most advanced level.I want to share everything here that I once suffered to learn or to find a solution for. It's the place where I share everything I learn. In a way, that I wished I had someone to learn from.
+date: 2024-12-29
+lastmod: 2025-01-01
 ---
 
 **Non-academic academia** is a personal [wiki](https://en.wikipedia.org/wiki/Wiki). Developed by [Protyasha Roy](/me). And built using [Hugo](https://gohugo.io/).

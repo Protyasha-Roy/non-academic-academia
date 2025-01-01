@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miscellaneous/notes/permanent-notes/_index.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -164,6 +164,8 @@
   },
   "active": "82f4fb6b9fe19595",
   "lastOpenFiles": [
+    "miscellaneous/notes/_index.md",
+    "miscellaneous/notes/permanent-notes/_index.md",
     "miscellaneous/notes/literature-notes/_index.md",
     "miscellaneous/notes/fleeting-notes/_index.md",
     "miscellaneous/journal/31-12-2024.md",
@@ -173,8 +175,6 @@
     "miscellaneous/resources/books.md",
     "miscellaneous/resources/awesome-internet.md",
     "miscellaneous/resources/_index.md",
-    "miscellaneous/notes/_index.md",
-    "miscellaneous/notes/permanent-notes/_index.md",
     "miscellaneous/journal/_index.md",
     "miscellaneous/_index.md",
     "Untitled.md",

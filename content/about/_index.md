@@ -3,7 +3,7 @@ author: "Prothyasha Roy"
 title: "About"
 description: "About the Non-academic Academia."
 date: "2024-12-29"
-lastmod: "2024-12-29"
+lastmod: "2025-01-01"
 ---
 
 This site is my personal **blog-site** dedicated to **learning** and **teaching**. I’ll write about various topics that interest me, with a unique approach: while the tone will be **non-academic**, the content will remain **academic**. My goal is to present complex ideas in a way that is **easy to understand** and engaging. With the right **resources** and **methods**, even challenging topics can become **fun to learn**.
