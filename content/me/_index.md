@@ -31,3 +31,5 @@ Besides these I:
 - consider [stalker](https://en.wikipedia.org/wiki/Stalker_(1979_film)) to be my favourite movie of all time.
 
 For more information about me, you can visit my [website](https://protyasharoy.onrender.com) or [email](mailto:protyasharoy369@gmail.com) me. Information about the site [here](/about).
+
+socials: [X](https://x.com/zeenovex) | [Facebook](https://www.facebook.com/protyasha.roy.pow) | [Discord](https://discord.gg/qS6KMVxa) | [Github](https://github.com/Protyasha-Roy)
