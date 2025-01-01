@@ -34,9 +34,8 @@
     const moonIcon = document.querySelector('.moon-icon');
     const htmlElement = document.documentElement;
 
-    // Check for saved theme preference, otherwise use system preference
-    const savedTheme = localStorage.getItem('theme') || 
-        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    // Check for saved theme preference, if none use light theme
+    const savedTheme = localStorage.getItem('theme') || 'light';
     
     // Set initial theme
     htmlElement.setAttribute('data-theme', savedTheme);
