@@ -1,6 +1,7 @@
 baseURL = "https://non-academic-academia.onrender.com/"
 languageCode = "en-us"
 title = "Non-academic Academia"
+buildFuture = true  # This will allow future-dated content to be built
 
 [taxonomies]
   category = "categories"
