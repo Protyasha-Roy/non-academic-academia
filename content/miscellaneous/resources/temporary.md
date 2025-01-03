@@ -9,3 +9,5 @@ categories: ["Miscellaneous", "Resources"]
 tags: ["Temporary", "Miscellaneous", "Resources", "Curated list", "Links", "References"]
 ---
 Temporary links and resources that I go through when I'm free and then categorize.
+
+- [Elephant Revival](https://en.wikipedia.org/wiki/Elephant_Revival) - [Tool](https://en.wikipedia.org/wiki/Tool_(band)) “[Schism](https://www.youtube.com/watch?v=MM62wjLrgmA)” Cover Live at the Mission Ballroom.
