@@ -1,3 +1,25 @@
+---
+title: Holy scripture of taking notes
+date: 2025-01-03T21:24:39+06:00
+draft: false
+author: Protyasha Roy
+description: Two note taking methods developed by protyasha roy.
+tags:
+    - Personal
+    - Miscellaneous
+categories:
+    - Miscellaneous
+    - Personal
+lastmod: 2025-01-03T21:24:39+06:00
+---
+
+Here you will find two method for taking notes for single layered and multi-layered topics. Single layered topics are those which are single articles/books/papers. And multi-layered topics include study of multiple books/papers/articles.
+
+## Table of contents
+1. [Kiwi method](#kiwi-method)
+2. [Gluon method](#gluon-method)
+3. [How to](#how-to)
+
 ## Kiwi method
 Kiwi method is a nested method for taking notes for multi-layered topics. The name 'Kiwi' was chosen because the fruit Kiwi is a multi-layered fruit, and simply I like the name Kiwi(keeuuweeeuueee sounds cute, right?). The method is described below step by step.
 
