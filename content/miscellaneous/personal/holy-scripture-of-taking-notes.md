@@ -15,7 +15,7 @@ lastmod: 2025-01-03T21:24:39+06:00
 
 Here you will find two method for taking notes for single layered and multi-layered topics. Single layered topics are those which are single articles/books/papers. And multi-layered topics include study of multiple books/papers/articles.
 
-## Table of contents
+## Table of content
 1. [Kiwi method](#kiwi-method)
 2. [Gluon method](#gluon-method)
 3. [How to](#how-to)

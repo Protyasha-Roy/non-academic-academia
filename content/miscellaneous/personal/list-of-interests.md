@@ -15,6 +15,18 @@ tags:
 
 This is an extensive list of all the things I'm interested in. I'm not gonna do it all at once of course. And it's probably not even possible to do all of these in a single lifetime. I don't necessarily want to become an expert in all of these. But there are few that I absolutely want to master. And thus, I have a [priority list](/miscellaneous/personal/current-priorities) to follow. 2-3 things at a time.
 
+**Table of content**
+- [1. Technology & Programming](#1-technology--programming)
+- [2. Science & Mathematics](#2-science--mathematics)
+- [3. Art & Creativity](#3-art--creativity)
+- [4. Music & Performance](#4-music--performance)
+- [5. History, Culture, & Philosophy](#5-history-culture--philosophy)
+- [6. Games & Puzzles](#6-games--puzzles)
+- [7. Outdoor & Physical Activities](#7-outdoor--physical-activities)
+- [8. Collecting & Observation](#8-collecting--observation)
+- [9. Social Sciences & Humanities](#9-social-sciences--humanities)
+- [10. Miscellaneous](#10-miscellaneous)
+
 ### **1. Technology & Programming**
 
 - Key shortcuts
