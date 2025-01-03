@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "Blogs & articles"
 date: 2024-12-31T21:39:41+06:00
 draft: false
 author: "Protyasha Roy"
