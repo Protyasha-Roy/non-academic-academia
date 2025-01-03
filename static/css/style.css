@@ -263,6 +263,12 @@ article {
     font-size: 0.9em;
 }
 
+/* Content Spacing */
+p {
+    margin-top: 0.09em;
+    margin-bottom: 0.09em;
+}
+
 /* Responsive Design */
 @media (min-width: 768px) {
     .container img {
