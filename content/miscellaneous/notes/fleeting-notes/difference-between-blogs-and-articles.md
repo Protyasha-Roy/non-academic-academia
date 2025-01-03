@@ -17,14 +17,14 @@ To read and create a literature note and a blogpost from this note later.
 - [Key differences between blog and article](#difference-between-blog-and-article)
 
 ### Resources: 
-- Jorn barger blogger profile: https://www.blogger.com/profile/04907939253526009855
-- Jorn barger blogsite robotwisdomauxiliary: https://robotwisdom2.blogspot.com/
-- On bloggers legal guide: https://www.eff.org/issues/bloggers/legal
+- [Jorn barger blogger profile](https://www.blogger.com/profile/04907939253526009855)
+- [Jorn barger blogsite robotwisdomauxiliary](https://robotwisdom2.blogspot.com/)
+- [On bloggers legal guide](https://www.eff.org/issues/bloggers/legal)
 
 ## To read
-1. https://en.wikipedia.org/wiki/Blog
-2. https://en.wikipedia.org/wiki/Article
-3. https://www.elevenwriting.com/blog/blog-vs-article
-4. https://www.elevenwriting.com/blog/blog-vs-article
-5. https://www.linkedin.com/pulse/whats-difference-between-blog-post-article-chloe-skye-weiser/
-6. https://blog.hubspot.com/marketing/what-is-a-blog
+1. [Blog-wikipedia](https://en.wikipedia.org/wiki/Blog)
+2. [Article-wikipedia](https://en.wikipedia.org/wiki/Article)
+3. [Blog-vs-article-elevenwriting](https://www.elevenwriting.com/blog/blog-vs-article)
+4. [Blog-vs-article-elevenwriting](https://www.elevenwriting.com/blog/blog-vs-article)
+5. [What-is-a-blog-linkedin](https://www.linkedin.com/pulse/whats-difference-between-blog-post-article-chloe-skye-weiser/)
+6. [What-is-a-blog-hubspot](https://blog.hubspot.com/marketing/what-is-a-blog)
