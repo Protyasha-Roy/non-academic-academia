@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miscellaneous/resources/temporary.md",
+                "file": "miscellaneous/journal/01-01-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temporary"
+              "title": "01-01-2025"
             }
           }
         ]
@@ -164,6 +164,7 @@
   },
   "active": "82f4fb6b9fe19595",
   "lastOpenFiles": [
+    "miscellaneous/resources/temporary.md",
     "miscellaneous/journal/01-01-2025.md",
     "miscellaneous/journal/02-01-2025.md",
     "_index.md",
@@ -173,7 +174,6 @@
     "miscellaneous/notes/fleeting-notes/_index.md",
     "miscellaneous/journal/31-12-2024.md",
     "me/_index.md",
-    "miscellaneous/resources/temporary.md",
     "miscellaneous/resources/books.md",
     "miscellaneous/resources/awesome-internet.md",
     "miscellaneous/resources/_index.md",
