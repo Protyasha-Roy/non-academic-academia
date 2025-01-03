@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miscellaneous/journal/01-01-2025.md",
+                "file": "miscellaneous/resources/temporary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-01-2025"
+              "title": "temporary"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "82f4fb6b9fe19595",
   "lastOpenFiles": [
-    "miscellaneous/resources/temporary.md",
     "miscellaneous/journal/01-01-2025.md",
+    "miscellaneous/resources/temporary.md",
     "miscellaneous/journal/02-01-2025.md",
     "_index.md",
     "miscellaneous/notes/_index.md",
