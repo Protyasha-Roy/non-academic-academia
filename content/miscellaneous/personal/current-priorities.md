@@ -17,6 +17,8 @@ Got a lot of [interests](/miscellaneous/personal/list-of-interests). But here is
 
 **Main focus**: Academic studies for universitiy entrance exam.
 
-**Secondary focus**: Learning about history of humanity.
+**Secondary focus**: Computer science and programming.
 
-**Tertiary focus**: Daily journaling and short read for anything new and listing it.
+**Tertiary focus**: Learning about history.
+
+**Quaternary focus**: Daily journaling, writing a blog or article, and short read for anything new and listing it.
