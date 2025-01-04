@@ -11,11 +11,28 @@ categories:
   - Notes
 ---
 
+### Table of content
+1. [Source](#source)
+2. [About](#about)
+3. [Summary](#summary)
+4. [Key points](#key-points)
+5. [Types of sources](#types-of-sources)
+6. [Where to look for sources](#where-to-look-for-sources)
+7. [Evaluating sources](#evaluating-sources)
+8. [Further resources](#further-resources)
+
+
+### Source
+- [find-source: wikipedia](https://en.wikipedia.org/wiki/Help:Find_sources#:~:text=Wikipedia%20editors%20have%20created%20custom,determined%20are%20generally%20more%20reliable.)
+
+### About
+This article is about finding sources to support specific wikipedia articles. Since articles on an encyclopedia have to be neutral and accurate, the sources also have to be independent. But many sources are either not available online or need special permission to get access to. Even with this obstacles there are ways to get access to these credible sources. Academic papers through open access repositories, news stories from newspapers with a reputation for accuracy, and books which have previews on digital libraries.
+
+### Summary
+So to find credible sources, we need to be careful about [few things](#evaluating-sources) and for specific topic we need to look for specific [types of sources](#types-of-sources). And to find the best sourcecs, there are [several ways](#where-to-look-for-sources) and tools as well.
+
+
 ### Key points
-
-#### Overview
-This article is about finding sources to support a specific wikipedia articles. Since articles on an encyclopedia have to be neutral and accurate, the sources also have to be independent. But many sources are either not available online or needs special permission to get access to. Even with this obstacle there are ways to get access to these credible sources. Academic papers through open access repositories, news stories from newspapers with a reputation for accuracy, and books which have previews on digital libraries.
-
 #### Types of sources
 Even though there are many types of sources, some are appropriate only in certain situations. For specific case, we might need to look for specific types of sources.
 - **Scholarly articles**: short papers published in academic journals.
@@ -50,9 +67,6 @@ Even though there are many types of sources, some are appropriate only in certai
 - Are there obvious errors or omissions?
 
 
-### Summary
-So to find credible sources, we need to be careful about [few things](#evaluating-sources) about the source and for specific topic we need to look for specific [types of sources](#types-of-sources). And to find the best sourcecs, there are [several ways](#where-to-look-for-sources) and tools as well.
-
 ### Further resources
 - [PubMed: Basics of Searching](https://www.youtube.com/watch?v=qBV9HsPKXi0&list=PLF2KCgTC6mbQX8Creoyl4jI8q-xeyfcyj&index=3)
 - [FYS: Peer Review for Journal Articles](https://www.youtube.com/watch?v=Dd_0ErD_Gws)
@@ -67,8 +81,19 @@ So to find credible sources, we need to be careful about [few things](#evaluatin
 - [Wikipedia:Reliable sources](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources)
 - [The wikipedia library](https://wikipedialibrary.wmflabs.org/)
 
-
-### Source
-- [find-source: wikipedia](https://en.wikipedia.org/wiki/Help:Find_sources#:~:text=Wikipedia%20editors%20have%20created%20custom,determined%20are%20generally%20more%20reliable.)
-
-
+### Further Questions
+- What are the best open access/public repositories?
+- What are the best open access/public library databases?
+- What are the newspapers highly reputated for their accuracy?
+- What are the best digital libraries?
+- What are the best academic journals for scholarly articles?
+- Best sites to get textbooks?
+- Best sites to get archival(historic documents) materials?
+- Best magazine articles?
+- Best sites to get reports and grey literature?
+- Best sites to get statistics?
+- Best sites to get theses and dissertations?
+- Best sites to get websites, blogs and other user-generated sources?
+- What are the best search engines for research purpose?
+- How to optimize search engines for scholarly materials?
+- What scholarly search engines are best?

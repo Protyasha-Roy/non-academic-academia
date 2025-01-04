@@ -25,3 +25,11 @@ Any cool, weird, informative, useful stuff I come across will be listed down her
 
 You might see these resources repeatedly throughout this website. Cause I might use these as reference source or example somewhere.
 
+
+### Programming
+#### Github
+- [First timers only](https://www.firsttimersonly.com/): Guide for newbies on contributing to open-source projects on github.
+
+### Personal portfolio sites
+#### Artists
+- [Gillian Golding - Printmaker](https://www.gilliangolding.co.uk/)
