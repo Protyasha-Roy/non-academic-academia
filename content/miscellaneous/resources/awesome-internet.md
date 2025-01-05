@@ -3,7 +3,7 @@ title: Awesome Internet
 author: Protyasha Roy
 description: List of all the awesome stuff I come across on the internet. Websites, projects, cultures etc.
 date: 2025-01-01
-lastmod: 2025-01-01
+lastmod: 2025-01-05
 categories:
   - Miscellaneous
   - Resources

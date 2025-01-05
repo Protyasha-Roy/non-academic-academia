@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2025-01-03T21:24:39+06:00
+date: 2025-01-04T21:24:39+06:00
 draft: false
 author: Protyasha Roy
 description: List of resources for research.
