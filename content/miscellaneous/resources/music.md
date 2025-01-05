@@ -1,5 +1,5 @@
 ---
-title: Songs
+title: Music
 date: 2025-01-05T21:41:30+06:00
 draft: false
 author: Protyasha Roy
