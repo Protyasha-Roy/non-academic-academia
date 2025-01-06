@@ -30,6 +30,17 @@ You might see these resources repeatedly throughout this website. Cause I might 
 #### Github
 - [First timers only](https://www.firsttimersonly.com/): Guide for newbies on contributing to open-source projects on github.
 
+
+### Cool websites
+- [nownownow](https://nownownow.com/)
+
+### Art tools
+- [JustSketchMe](https://justsketch.me/)
+
 ### Personal portfolio sites
 #### Artists
 - [Gillian Golding - Printmaker](https://www.gilliangolding.co.uk/)
+
+### Web Developers
+- [Herman Martinus](https://herman.bearblog.dev/)
+- 
