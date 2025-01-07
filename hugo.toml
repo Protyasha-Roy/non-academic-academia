@@ -32,3 +32,18 @@ buildFuture = true  # This will allow future-dated content to be built
   home = ["HTML", "RSS", "JSON", "SITEMAP"]
 
 [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false  # Keep HTML rendering secure
+
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ['^go$']
+  [security.funcs]
+    getenv = ['^HUGO_']
+  [security.http]
+    methods = ['(?i)GET']
+    urls = ['https://cdn.jsdelivr.net/.*']
+
+ignoreLogs = ['warning-goldmark-raw-html']

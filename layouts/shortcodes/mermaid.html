@@ -1,0 +1,19 @@
+{{ $id := printf "mermaid-%d" now.UnixNano }}
+<div class="mermaid-wrapper">
+  <div id="{{ $id }}" class="mermaid">
+    {{- .Inner | safeHTML }}
+  </div>
+</div>
+
+{{ if not (.Page.Scratch.Get "mermaid-loaded") }}
+  {{ .Page.Scratch.Set "mermaid-loaded" true }}
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10.6.1/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'default',
+      securityLevel: 'strict',
+      maxTextSize: 50000
+    });
+  </script>
+{{ end }}

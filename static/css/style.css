@@ -286,6 +286,29 @@ p {
     }
 }
 
+/* Mermaid Diagram Styles */
+.mermaid-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: var(--bg-color);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.mermaid {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+[data-theme="dark"] .mermaid-wrapper {
+  background-color: var(--bg-color);
+  box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+}
+
 /* Footer */
 .footer {
     width: 100%;
